@@ -49,7 +49,13 @@ FreshConnect Local enables:
 * Auto-generated safety documentation
 * Budget filters for students
 * Bulk filters for NGOs
+## 🎨 Product Interface
 
+![Features](images/Features%201.png)
+
+![Features](images/Features%202.png)
+
+![Features](images/Features%203.png)
 
 ##  User Flow
 
@@ -59,7 +65,7 @@ FreshConnect Local enables:
 4. QR code generated
 5. Pickup completed
 6. Safety log auto-generated
-## 📷 Visual Storyboard
+##  Visual Storyboard
 
 ![Storyboard](images/Story%20Board%201.png)
 
