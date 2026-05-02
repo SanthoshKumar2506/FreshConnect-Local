@@ -59,7 +59,11 @@ FreshConnect Local enables:
 4. QR code generated
 5. Pickup completed
 6. Safety log auto-generated
+## 📷 Visual Storyboard
 
+![Storyboard](images/Story%20Board%201.png)
+
+![Storyboard](images/Story%20Board%202.png)
 
 
 ##  MVP Scope
