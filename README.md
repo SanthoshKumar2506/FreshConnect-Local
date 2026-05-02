@@ -49,13 +49,7 @@ FreshConnect Local enables:
 * Auto-generated safety documentation
 * Budget filters for students
 * Bulk filters for NGOs
-## 🎨 Product Interface
 
-![Features](images/Features%201.png)
-
-![Features](images/Features%202.png)
-
-![Features](images/Features%203.png)
 
 ##  User Flow
 
@@ -65,6 +59,14 @@ FreshConnect Local enables:
 4. QR code generated
 5. Pickup completed
 6. Safety log auto-generated
+
+##  Product Interface
+
+![Features](images/Features%201.png)
+
+![Features](images/Features%202.png)
+
+![Features](images/Features%203.png)
 ##  Visual Storyboard
 
 ![Storyboard](images/Story%20Board%201.png)
@@ -84,7 +86,9 @@ Core flow:
 * **Completion Rate:** 70%
 * **Seller Retention:** 60%
 * **Food Rescued:** ~225 kg/month
+## Key Metrics
 
+![Metrics](images/Key%20Metrics.png)
 
 
 ## My Contribution
