@@ -95,12 +95,11 @@ Core flow:
 
 
 ## My Contribution
-
-* Conducted **user interviews** to identify key pain points
-* Contributed to **MRD and PRD development**
-* Designed **visual storyboards** for user journeys
-* Worked on **feature definition and product structure**
-* Created **presentation (PPT)** for product communication
+- Conducted **user interviews** with restaurants and buyers to identify operational pain points  
+- Contributed to **MRD and PRD development**, defining product scope and requirements  
+- Designed **visual storyboards** to map end-to-end user journeys  
+- Collaborated on **feature definition and product structure**  
+- Developed **presentation materials (PPT)** to communicate product vision and solution  
 
 
 
