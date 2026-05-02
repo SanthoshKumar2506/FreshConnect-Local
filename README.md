@@ -1,4 +1,5 @@
 FreshConnect Local
+> A hyperlocal B2B marketplace connecting surplus food from restaurants to NGOs, caterers, and students — reducing waste and improving access to affordable meals in real time.
 ## Overview
 
 FreshConnect Local is a hyperlocal B2B marketplace designed to reduce food waste by connecting restaurants with surplus food to NGOs, caterers, and students in real time. The platform enables businesses to recover value from excess food while improving access to affordable, quality meals.
